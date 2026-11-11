@@ -1,9 +1,8 @@
-**Data Warehouse and Analytics Project
-**
+**Data Warehouse and Analytics Project**
+
 Welcome to my Data Warehouse and Analytics Project repository! This portfolio project covers the full journey from raw source files to business insights: building a SQL data warehouse, cleaning and integrating the data, and analyzing it to support decision-making.
 
 **Project Overview**
-
 **This project has two parts:**
 
 **Data Warehouse (data engineering):** consolidate sales data from two source systems into one clean, analysis-ready warehouse.

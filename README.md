@@ -21,8 +21,11 @@ Build a data warehouse in [MySQL / SQL Server] that consolidates sales data from
 **Data sources:** two source systems, [ERP] and [CRM], provided as CSV files.
 
 **Data quality:** find and fix data quality issues (duplicates, nulls, inconsistent formats, invalid values) before analysis.
+
 **Integration:** combine both sources into one user-friendly data model designed for analytical queries.
+
 **Scope:** the latest dataset only, with no historization of old versions.
+
 **Documentation:** the data model and cleaning rules are documented so business and analytics teams can understand them.
 
 **Analytics and Reporting**
